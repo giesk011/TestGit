@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/runner1/AndroidStudioProjects/PuzzleProblem/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="24a966efee772e21da478d31134345f51a8c70f1">
+        <dex dex="/home/runner1/AndroidStudioProjects/PuzzleProblem/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e77f3b73eab762369731de6738f437fc0c231e5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/runner1/AndroidStudioProjects/PuzzleProblem/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/runner1/AndroidStudioProjects/PuzzleProblem/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_70f399580f4da1b42ffa5fee4365e5fe2664d84e/classes.dex" />
+    </item>
+
+</items>

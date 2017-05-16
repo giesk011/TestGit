@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PuzzleProblem</string>
+    <string name="welcom_text"> Welcome To The 8 Puzzle </string>
+    <string name="intro_text">You are given a board in which numbered tiles can slide around.
+                    There is one blank space that holds no tile.
+                    A legal move consists of sliding a tile into the blank space
+                    if the tile is adjacent to it. The goal is to move tiles
+                    around until the board looks like the final state below.</string>
+    <string name="start_button">Start</string>
+    <string name="reset_button">Reset</string>
+    <string name="activity2_title">Press To Move</string>
+</resources>
