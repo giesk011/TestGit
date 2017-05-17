@@ -3,6 +3,24 @@
 
     <item
         is-multidex="true"
+        jar="/home/runner1/AndroidStudioProjects/TestGit/TestGit/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/runner1/AndroidStudioProjects/TestGit/TestGit/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_08e56ce06e083ed86731ca9a1ebfb42d2c6b97db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/runner1/AndroidStudioProjects/TestGit/TestGit/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1c548d020e38a6babdd2ae6df47ffcc2de9647fc">
+        <dex dex="/home/runner1/AndroidStudioProjects/TestGit/TestGit/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_406d3acf7f2c3b8c1d7c4755ebabc1b40a3e9951/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/runner1/AndroidStudioProjects/PuzzleProblem/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
